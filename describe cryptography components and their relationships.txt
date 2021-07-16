@@ -1,0 +1,30 @@
+Describe cryptography components and their relationships.
+	Presenting cryptography components will require some information on the matter itself.  Such as the subject matters of cryptography, such as.  Processing methods of converting data to encrypted form.  That also include scrambling data.  Explanation of secret message.  
+What it means for encryption use.  What is used to generate a message.  Types of algorithms.  Communication through cryptography. 
+Definition of cryptography by Merriam Webster dictionary: "the enciphering and deciphering of messages in secret code or cipher" (Webster Merriam Dictionary, 2021).  What is cipher?  Cipher according to Collins dictionary as they state it, "a system of secret writing based on a key, or set of predetermined rules or symbols" (Web media; collins dictionary, 2021).   
+Finding the definition to encipher needs some clues to really understand from.  Like the definition of Encryption: The process of converting an original message (plaintext) into a form that cannot be used by unauthorized individuals (ciphertext), (Mattord, 2018).  When compared to an web article.  The definition of ciphertext is, "In cryptography, ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher" (Wikipedia, 2021) .  
+Cryptography needs the last piece of information to be described.  That is the need to know, the definition of decipher, "a translate (a message in cipher or code) into ordinary, understandable language; decode" (Web media; Collins dictionary, 2021).  Describing Cryptography components and their relations.  Has been introduced without some of the subject matter so, far.
+Subject matter of components like, the meanings of processing methods; to encipher and decipher.  Likewise, from the context in the text-book (Principles of information security, sixth edition).  The book states, "Processing methods are used to convert plaintext data into encrypted data-bit stream and block ciphering" (Mattord, 2018).    What is a bit stream?  
+According to Wikipedia web media.  Bit stream is, "A bitstream (or bit stream) also known as binary sequence, is a sequence of bits" (Wikipedia, 2021).    According to Wikipedia the definition of block cipher is, "In cryptography, a block cipher is deterministic algorithm operating on fixed-length groups of bits, called blocks.  It uses an unvarying transformation, that is, it uses a symmetric key.  
+They are specified elementary components in the design of many cryptographic protocols and are widely used to implement the encryption of large amounts of data, including data exchange protocols" (Wikipedia, 2021).  The methods of scrambling data are some of the components of cryptography.  Data scrambling means, "to disarrange the elements of a transmission (such as a telephone or television signal) in order to make unintelligible to interception" (Web media; Merriam-Webster dictionary , 2021).  According to the text-book mentioned earlier.  Data scrambling is performed by (substitution ciphers, transposition ciphers, the XOR function, the Vigenere cipher, and the Vernam cipher) ciphers and XOR function (Mattord, 2018). 
+Encryption uses keys.  The length of the keys determines how strong the encryption will be against hackers.  This is mentioned in the text-book (the length of the key directly affects the strength of the encryption) (Mattord, 2018).   Encryption applications and cryptosystems depend on strong keys by size.  Find out the key size, AES has the best so far.  Or consider my matter of option using, newest applications like Python programming language (Freiwald,2021).   
+The last five components I will be featuring are really the best of practice, with information security practitioners and system users alike.  Our text-book mentions this, “Hash functions are mathematical algorithms that generate a message summary.  Or Digest.  Can be used to confirm the identity of a specific message and confirm that the message has not been altered” (Mattord, 2018).  “Most cryptographic algorithms can be group into two broad categories: symmetric and asymmetric.  The most popular cryptosystems are hybrids that combine symmetric and asymmetric algorithms” (Mattord, 2018).  “Public key infrastructure PKI is an integrated system of software, encryption methodologies, protocols, legal agreements, and third-digital certificate is an electronic document, similar to a digital signature, which is attached to a file to certify it came from the organization that claims to have sent it and was not modified from its original format” (Mattord, 2018).
+
+
+	
+	
+ 
+references
+
+Mattord, M. E. (2018). Principles of Information Security, Sixth Edition. Cengage Learning.
+Web media; collins dictionary. (2021). cipher. Retrieved from Collins: https://www.collinsdictionary.com/us/dictionary/english/cipher
+Web media; Collins dictionary. (2021). Collins. Retrieved from Collins dictionary, decipher: https://www.collinsdictionary.com/us/dictionary/english/decipher
+Web media; Merriam-Webster dictionary . (2021). Merriam-Webster. Retrieved from scramble: https://www.merriam-webster.com/dictionary/scramble
+Webster Merriam Dictionary. (2021). cryptography. Retrieved from https://www.merriam-webster.com/dictionary/cryptography
+Wikipedia. (2021, July 15). bit stream. Retrieved from https://en.wikipedia.org/wiki/Bitstream
+Wikipedia. (2021, July 15). ciphertext. Retrieved from https://en.wikipedia.org/wiki/Ciphertext
+
+
+
+
+
